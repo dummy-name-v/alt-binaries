@@ -5,9 +5,9 @@ data/*.bin
 modules/*
 !modules/.gitkeep
 
-resources/scripts/dummy/*
-!resources/scripts/dummy/package.json
-!resources/scripts/dummy/resource.toml
+resources/scripts/gamemode/*
+!resources/scripts/gamemode/package.json
+!resources/scripts/gamemode/resource.toml
 
 altv-crash-handler.exe
 altv-crash-handler.so
