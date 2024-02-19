@@ -19,3 +19,4 @@ libnode.dll
 libnode.so.108
 
 server.log
+server.toml
